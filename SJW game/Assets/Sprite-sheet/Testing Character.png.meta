@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: 38ea4a9cc91727b45a43b8297c741e98
+timeCreated: 1484488743
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Testing Character_0
+    21300002: Testing Character_1
+    21300004: Testing Character_2
+    21300006: Testing Character_3
+    21300008: Testing Character_4
+    21300010: Testing Character_5
+    21300012: Testing Character_6
+    21300014: Testing Character_7
+    21300016: Testing Character_8
+    21300018: Testing Character_9
+    21300020: Testing Character_10
+    21300022: Testing Character_11
+    21300024: Testing Character_12
+    21300026: Testing Character_13
+    21300028: Testing Character_14
+    21300030: Testing Character_15
+    21300032: Testing Character_16
+    21300034: Testing Character_17
+    21300036: Testing Character_18
+    21300038: Testing Character_19
+    21300040: Testing Character_20
+    21300042: Testing Character_21
+    21300044: Testing Character_22
+    21300046: Testing Character_23
+    21300048: Testing Character_24
+    21300050: Testing Character_25
+    21300052: Testing Character_26
+    21300054: Testing Character_27
+    21300056: Testing Character_28
+    21300058: Testing Character_29
+    21300060: Testing Character_30
+    21300062: Testing Character_31
+    21300064: Testing Character_32
+    21300066: Testing Character_33
+    21300068: Testing Character_34
+    21300070: Testing Character_35
+    21300072: Testing Character_36
+    21300074: Testing Character_37
+    21300076: Testing Character_38
+    21300078: Testing Character_39
+    21300080: Testing Character_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Testing Character_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 588
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 588
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 588
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 588
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 588
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 588
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 588
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_7
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 588
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 431
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 428
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 432
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 437
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_12
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 432
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_13
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 428
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 433
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_15
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 438
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 267
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 270
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 271
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 271
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 268
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_21
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 266
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 266
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_23
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 267
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.16260758, y: 0.72492665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 181
+        width: 34
+        height: 22
+      alignment: 9
+      pivot: {x: 0.16260707, y: 0.7760481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 170
+        width: 19
+        height: 36
+      alignment: 9
+      pivot: {x: 0.6065449, y: 0.8373905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 174
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7570612, y: 0.86334383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 173
+        width: 25
+        height: 35
+      alignment: 9
+      pivot: {x: 0.823894, y: 0.8663112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 170
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.85988563, y: 0.86806417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_30
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 162
+        width: 17
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4206148, y: 0.8732852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 184
+        width: 27
+        height: 29
+      alignment: 9
+      pivot: {x: 0.15011032, y: 0.87229496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 46
+        width: 28
+        height: 34
+      alignment: 9
+      pivot: {x: 0.80474937, y: 0.90541345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 44
+        width: 30
+        height: 31
+      alignment: 9
+      pivot: {x: 0.82819164, y: 0.923473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 42
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.57293195, y: 0.83756846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_35
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 55
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.14836775, y: 0.82819164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_36
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 58
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.14993082, y: 0.75684655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_37
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 55
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.15129662, y: 0.7625538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_38
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 34
+        width: 16
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4179535, y: 0.8852688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_39
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 47
+        width: 18
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7917277, y: 0.845465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Testing Character_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 211
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
