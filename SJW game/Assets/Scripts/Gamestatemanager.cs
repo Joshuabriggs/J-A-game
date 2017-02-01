@@ -11,6 +11,7 @@ public class Gamestatemanager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+        sManager = GetComponent<StageManager>();
 	
 	}
 	

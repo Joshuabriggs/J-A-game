@@ -7,12 +7,12 @@ public class EnemyMovement : MonoBehaviour {
     [SerializeField]
     private float m_movementSpeed = 0.7f;
     private Transform m_transform;
-    public GameObject m_target;
+    private GameObject m_target;
 
 	// Use this for initialization
 	void Start () {
         m_transform = transform;
-        m_target = GameObject.FindGameObjectWithTag("player1");
+        m_target = GetComponent<EnemyController>().m_target;
 	}
 	
 	// Update is called once per frame
