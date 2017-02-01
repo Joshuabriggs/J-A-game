@@ -4,7 +4,7 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour {
 
     [SerializeField]
-    float m_movementSpeed = 2.0f;
+    private float m_movementSpeed = 2.0f;
     private bool keyLeft, keyRight, keyUp, keyDown, keySprint;
     private Transform m_transform;
 
